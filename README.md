@@ -6,7 +6,7 @@ This project uses a Deep Q-Network (DQN) to optimize traffic signal control at a
 # Tech stack
 * SUMO (Simulation of Urban MObility)
 * TraCI (Traffic Control Interface)
-* Python
+* Python 3.0
 * PyTorch
 * Matplotlib
 
