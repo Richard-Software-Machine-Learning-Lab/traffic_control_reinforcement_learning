@@ -14,9 +14,8 @@ This project uses a Deep Q-Network (DQN) to optimize traffic signal control at a
 ## Running the application 
 ```shell script
 python3 main_training.py results_training 2 4
-python3 nameFile.py folder experimentNumber inputNumber
 python3 main_testing.py results_testing 2 80 80
-
+python3 nameFile.py folder experimentNumber inputNumber
 ```
 
 ## Key Features  
